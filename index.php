@@ -30,4 +30,4 @@ echo "Nom : " . $row['name'] . "<br>";
 echo "Email : " . $row['email'] . "<br>";
 }
 }
-?>
+?>     
